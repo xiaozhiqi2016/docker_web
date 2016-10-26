@@ -1,0 +1,3 @@
+#采用python3 + tornado + sqlchemy
+#前端使用bootstap和一些js插件
+#需要安装sqlalchemy,docker-py,pycurl,pymysql,tornado

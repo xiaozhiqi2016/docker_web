@@ -1,0 +1,24 @@
+form div {
+    margin-left: 100px;
+}
+
+form div div {
+    margin-top: 10px;
+}
+
+input {
+    margin-left: 20px;
+    border-radius: 5px;
+}
+select{
+    margin-left: 20px;
+}
+
+.xxoo{
+    margin-left: 450px;
+    margin-top: 29px;
+}
+/*span input,select{*/
+    /*margin-left: 20px;*/
+/*}*/
+
